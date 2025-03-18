@@ -1,0 +1,11 @@
+{
+  "categories": [
+    "work"
+  ],
+  "description": "Specialized schedule for testing.",
+  "display": "fullscreen",
+  "name": "Specialized Schedule",
+  "orientation": "portrait",
+  "start_url": "/index.html",
+  "theme_color": "#2563eb"
+}
